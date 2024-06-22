@@ -22,10 +22,10 @@
 ## Projects
 
 - **Miriel Systems**
-  - Building innovative solutions to simplify technology
+  - Miriel Systems is a team that creates and operates social networking sites.
 
-- **Rosekey Read**
-  - Developing tools to enhance the reading experience
+- **Rosekey**
+  - Rosekey is a Japanese-born microblogging SNS based on Misskey (CherryPick) with Mastodon API.
 
 ## Contact
 
