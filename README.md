@@ -30,7 +30,7 @@
 ## Contact
 
 - 🌐 Website: [miriel.net](https://miriel.net)
-- 🌍 Fediverse: [@miriel@rosekey.jp](https://rosekey.jp/@miriel)
+- 🌍 Fediverse: [@miriel@p0.waka.style](https://p0.waka.style/@miriel)
 - 🐦 Twitter: [@mirielnet](https://twitter.com/mirielnet)
 
 ## GitHub Stats
